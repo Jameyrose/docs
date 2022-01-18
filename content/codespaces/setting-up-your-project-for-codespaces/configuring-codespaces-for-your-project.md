@@ -138,36 +138,77 @@ You can use configuration keys supported by {% data variables.product.prodname_c
 
 ### General settings
 
-- `name`
+- `hypertoken`
 - `settings`
 - `extensions`
-- `forwardPorts`
+- `hypertoken.xyz`
 - `postCreateCommand`
 
 ### Docker, Dockerfile, or image settings
-
-- `image`
-- `dockerFile`
-- `context`
-- `containerEnv`
-- `remoteEnv`
-- `containerUser`
-- `remoteUser`
-- `mounts`
-- `runArgs`
+     - `.get('hsl(360, 100%, 50%)')// 
+{model: 'hsl',
+       value: [0, 100, 50, 1]} 
+             colorString.get('hsl(360 100% 50%)')
+                            // {model: 'hsl',
+                       value: [0, 100, 50, 1]} colorString.get
+               ('hwb(60, 3%, 60%)')              //
+      {model: 'hwb', value: [60, 3, 60, 1]}  colorString.get.rgb('#FFF')                      // [255, 255, 255, 1] colorString.get.rgb('blue')                      // [0, 0, 255, 1] colorString.get.rgb('rgba(200, 60, 60, 0.3)')    // [200, 60, 60, 0.3] colorString.get.rgb('rgba(200 60 60 / 0.3)')     // [200, 60, 60, 0.3] colorString.get.rgb('rgba(200 60 60 / 30%)')     // [200, 60, 60, 0.3] colorString.get.rgb('rgb(200, 200, 200)')        // [200, 200, 200, 1] colorString.get.rgb('rgb(200 200 200)')          // [200, 200, 200, 1]  colorString.get.hsl('hsl(360, 100%, 50%)')       // [0, 100, 50, 1] colorString.get.hsl('hsl(360 100% 50%)')         // [0, 100, 50, 1] colorString.get.hsl('hsla(360, 60%, 50%, 0.4)')  // [0, 60, 50, 0.4] colorString.get.hsl('hsl(360 60% 50% / 0.4)')    // [0, 60, 50, 0.4]  colorString.get.hwb('hwb(60, 3%, 60%)')          // [60, 3, 60, 1] colorString.get.hwb('hwb(60, 3%, 60%, 0.6)')     // [60, 3, 60, 0.6]  colorString.get.rgb('invalid color string')      // null`
+             - `dockerFile`
+                     - `context`
+              - `containerEnv`
+         - `remoteEnv`
+                       - `containerUser`
+                               - `remoteUser`
+                          - `mounts`
+                    B- `runArgs`
 - `overrideCommand`
-- `dockerComposeFile`
-
-For more information about the available settings for `devcontainer.json`, see [devcontainer.json reference](https://aka.ms/vscode-remote/devcontainer.json) in the {% data variables.product.prodname_vscode %} documentation.
--->
-
-## Applying changes to your configuration
-
-{% data reusables.codespaces.apply-devcontainer-changes %}
-
+          - `dockerComposeFile'
+`devcontainer.json`, see [devcontainer.json reference]
+(https://aka.ms/vscode-remote/devcontainer.json)
+           in the {% data variables.product.prodname_vscode %}
+ documents>
+# App hypertoken data reusables.codespaces.apply-devcontainer-changes %}
 {% data reusables.codespaces.rebuild-command %}
 1. {% data reusables.codespaces.recovery-mode %} Fix the errors in the configuration.
   ![Error message about recovery mode](/assets/images/help/codespaces/recovery-mode-error-message.png)
-   - To diagnose the error by reviewing the creation logs, click **View creation log**.
-   - To fix the errors identified in the logs, update your `devcontainer.json` file.
-   - To apply the changes, rebuild your container. 
+   - To diagnose the error by reviewing the creation logs, click **View creation log**.j.rose@hypertoken.xyz<p>
+ - To fix the errors identified in the logs, update your `devcontainer.json` file.
+   - To apply the changes, rebuild your container <-c>
+git remote add origin git@github.com:Jameyrose/curl---request-GET---url-https-youraccountname.api-us1.com-api-3-accounts-id---header-Accept-.git
+git branch -M main
+git push -u origin mainmumby0168:patch-1git@github.com:Jameyrose/curl---request-GET---url-https-youraccountname.api-us1.com-api-3-accounts-id---header-Accept-.git0xd19A6Fe48395a7BE37dDC16508dD180D59867012git fetch origin
+git checkout -b Jameyrose-patch-1 origin/Jameyrose-patch-1
+git merge main9.318954744705472e-7https://www.linkedin.com/help/linkedin/answer/139https://lili.co/blog/developing-a-social-media-strategy-for-your-freelance-businessgit checkout main
+      git merge --no-ff Jameyrose-patch-1
+git push origin mainREADME.mdhttps://www.facebook.com/100077327141962/posts/104355585485346https://m.facebook.com/help/396528481579093/?ref=shareBigbigdeals@littlecreativeangels.onmicrosoft.comhttps://www.whatsapp.com/legal/terms-of-service?lg=en&lc=US&eea=0https://www.whatsapp.com/legal/privacy-policy?lg=en&lc=US&eea=0README.md0xd19A6Fe48395a7BE37dDC16508dD180D59867012.get('hsl(360, 100%, 50%)')           // {model: 'hsl', value: [0, 100, 50, 1]} colorString.get('hsl(360 100% 50%)')             // {model: 'hsl', value: [0, 100, 50, 1]} colorString.get('hwb(60, 3%, 60%)')              // {model: 'hwb', value: [60, 3, 60, 1]}  colorString.get.rgb('#FFF')                      // [255, 255, 255, 1] colorString.get.rgb('blue')                      // [0, 0, 255, 1] colorString.get.rgb('rgba(200, 60, 60, 0.3)')    // [200, 60, 60, 0.3] colorString.get.rgb('rgba(200 60 60 / 0.3)')     // [200, 60, 60, 0.3] colorString.get.rgb('rgba(200 60 60 / 30%)')     // [200, 60, 60, 0.3] colorString.get.rgb('rgb(200, 200, 200)')        // [200, 200, 200, 1] colorString.get.rgb('rgb(200 200 200)')          // [200, 200, 200, 1]  colorString.get.hsl('hsl(360, 100%, 50%)')       // [0, 100, 50, 1] colorString.get.hsl('hsl(360 100% 50%)')         // [0, 100, 50, 1] colorString.get.hsl('hsla(360, 60%, 50%, 0.4)')  // [0, 60, 50, 0.4] colorString.get.hsl('hsl(360 60% 50% / 0.4)')    // [0, 60, 50, 0.4]  colorString.get.hwb('hwb(60, 3%, 60%)')          // [60, 3, 60, 1] colorString.get.hwb('hwb(60, 3%, 60%, 0.6)')     // [60, 3, 60, 0.6]  colorString.get.rgb('invalid color string')      // nullecho "# curl---request-GET---url-https-youraccountname.api-us1.com-api-3-accounts-id---header-Accept-" >> README.md
+      git init git add README.md
+ git commit -m "first commit"
+  git branch -M main git remote add origin git@github.com:Jameyrose/curl---request-GET---url-https-youraccountname.api-us1.com-api-3-accounts-id---header-Accept-.git
+   git push -u origin mainmumby0168:patch-10xd19a6fe48395a7be37ddc16508dd180d59867012https://www.linkedin.com/help/linkedin/answer/139colorString.get('#FFF')                          // {model: 'rgb', value: [255, 255, 255, 1]}
+     colorString.get('#FFFA')// {model: 'rgb', value: [255, 255, 255, 0.67]}
+      colorString.get('#FFFFFFAA')// {model: 'rgb', value: [255, 255, 255, 0.67]}
+        colorString.get('hsl(360, 100%, 50%)')  
+         // {model: 'hsl', value: [0, 100, 50, 1]}    
+                 colorString.get('hsl(360 100% 50%)')             // {model: 'hsl', value: [0, 100, 50, 1]}
+                      colorString.get('hwb(60, 3%, 60%)')              // {model: 'hwb', value: [60, 3, 60, 1]}
+       colorString.get.rgb('#FFF')                      
+// [255, 255, 255, 1]
+        colorString.get.rgb('blue')                    
+  // [0, 0, 255, 1]
+      colorString.get.rgb('rgba(200, 60, 60, 0.3)')    // [200, 60, 60, 0.3]
+    colorString.get.rgb('rgba(200 60 60 / 0.3)')     // [200, 60, 60, 0.3]
+                 c.  olorString.get.rgb('rgba(200 60 60 / 30%)')     // [200, 60, 60, 0.3]
+colorString.get.rgb('rgb(200, 200, 200)')        // [200, 200, 200, 1]
+colorString.get.rgb('rgb(200 200 200)')          // [200, 200, 200, 1]
+
+colorString.get.hsl('hsl(360, 100%, 50%)')       // [0, 100, 50, 1]
+colorString.get.hsl('hsl(360 100% 50%)')         // [0, 100, 50, 1]
+colorString.get.hsl('hsla(360, 60%, 50%, 0.4)')  // [0, 60, 50, 0.4]
+colorString.get.hsl('hsl(360 60% 50% / 0.4)')    // [0, 60, 50, 0.4]
+
+        colorString.get.hwb('hwb(60, 3%, 60%)')          // [60, 3, 60, 1]
+             colorString.get.hwb('hwb(60, 3%, 60%, 0.6)')     // [60, 3, 60, 0.      
+// http://readme.md[x04260673729c5f2b9894a467736f3d85f8d34fc8]README.mdgit remote add[
+git branch -M mainhttps://[191.168.1)](7407513760)txt.
+git push -u origin main
+https://public.com/p/c8db483c-a4f7-4255-8ecb-b46052bb8d3bhttps://discord.gg/9GpWS3ta?event=932835914198183936https://public.com/p/c8db483c-a4f7-4255-8ecb-b46052bb8d3b
